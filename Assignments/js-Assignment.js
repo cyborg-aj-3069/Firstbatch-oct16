@@ -10,6 +10,6 @@ SECTION-3 - (JavaScript assignments) Steps to follow:
 9. Again switch to ‘js-assignments’ branch. 
 10. Make minor changes into few files belonging to ‘js-assignments’ branch. 
 11. Commit those changes. 
-12. Switch to master. 
+
 13. Merge ‘js-assignments’ branch into master. Confirm all JavaScript assignments are shown in master. 
 14. Finally delete the ‘js-assignments’ branch.
