@@ -7,3 +7,5 @@ Changes made for Master Branch
 =======
 Changes Made for Css Assignment Branch
 >>>>>>> css-assignment
+
+Changes for js assignment
